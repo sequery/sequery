@@ -15,7 +15,6 @@ Shields.io place some badges
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">My Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=sequery&show_icons=true&theme=material-palenight&hide_border=true&locale=en)](https://github.com/sequery)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=sequery&theme=material-palenight)](https://github.com/sequery)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=sequery&theme=material-palenight&layout=compact)](https://github.com/sequery)
 </div>
