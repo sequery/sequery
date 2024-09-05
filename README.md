@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **[React.js Admin Panel](https://github.com/sequery/ReactJS-Admin)**.
 - 🌱 I’m currently learning **Russian, Trading and [React.js](https://reactjs.org)**.
-- 🤔 I’m looking for help with **[Node.js](https://nodejs.org)**
 - 💬 We can talk about **Trading, Chess and Philosophy**.
 - 📫 How to reach me: agageldi.artykov@gmail.com
 - ⚡ Fun fact: My favourite series is **[Two Broke Girls](https://www.imdb.com/title/tt1845307/)**.
