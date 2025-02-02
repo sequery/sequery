@@ -1,6 +1,6 @@
 ### <h1 align="center" style="margin: 5px 10px;">Hello, I'm Aga 👋</h1>
 
-- 🔭 I'm currently diving into a **[new full-stack project](https://github.com/yourusername/yourproject)**.
+- 🔭 I'm currently diving into **[3bins project](https://github.com/sequery/3bins)** for my internship.
 - 🌱 Expanding my expertise in **Cloud Computing, AI, and Microservices**.
 - 💬 I love chatting about **tech innovations, digital art, or even sci-fi books**.
 - 📫 Feel free to drop me a line at: aga@sequery.dev
