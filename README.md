@@ -1,11 +1,10 @@
-### <h1 align="center" style="margin: 5px 10px;">Hi there, I'm Aga 👋</h1>
+### <h1 align="center" style="margin: 5px 10px;">Hello, I'm Aga 👋</h1>
 
-
-- 🔭 I’m currently working on **[React.js Admin Panel](https://github.com/sequery/ReactJS-Admin)**.
-- 🌱 I’m currently learning **Russian, Trading and [React.js](https://reactjs.org)**.
-- 💬 We can talk about **Trading, Chess and Philosophy**.
-- 📫 How to reach me: agageldi.artykov@gmail.com
-- ⚡ Fun fact: My favourite series is **[Two Broke Girls](https://www.imdb.com/title/tt1845307/)**.
+- 🔭 I'm currently diving into a **[new full-stack project](https://github.com/yourusername/yourproject)**.
+- 🌱 Expanding my expertise in **Cloud Computing, AI, and Microservices**.
+- 💬 I love chatting about **tech innovations, digital art, or even sci-fi books**.
+- 📫 Feel free to drop me a line at: aga@sequery.dev
+- ⚡ Fun fact: I'm a big fan of **vintage tech and experimental music**.
 
 <!--- <h2 align="center" style="margin: 5px 10px;">My Current Knowledge</h2> 
 Shields.io place some badges 
